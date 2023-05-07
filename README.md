@@ -1,4 +1,6 @@
 # cryptonomicon
+Простой проект для изучения Vue3.
+ссылка на источник: https://www.youtube.com/watch?v=Xzx8SCzrfXU&list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw&index=12
 
 ## Project setup
 ```
